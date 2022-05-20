@@ -1,8 +1,0 @@
-from numpy import *
-import numpy as np
-
-'''
-we have to find matrix C
-(5)(C)=(A^(2))-((5)(B^(2)))
-'''
-
